@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineBook", "OnlineBook\OnlineBook.csproj", "{D1A7F4D1-079F-469D-9BD5-BBA1D5EB2000}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyTestingProject", "MyTestingProject\MyTestingProject.csproj", "{07F46AA6-1C71-4BB7-AF7D-60109E99D237}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1A7F4D1-079F-469D-9BD5-BBA1D5EB2000}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1A7F4D1-079F-469D-9BD5-BBA1D5EB2000}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1A7F4D1-079F-469D-9BD5-BBA1D5EB2000}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1A7F4D1-079F-469D-9BD5-BBA1D5EB2000}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07F46AA6-1C71-4BB7-AF7D-60109E99D237}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07F46AA6-1C71-4BB7-AF7D-60109E99D237}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07F46AA6-1C71-4BB7-AF7D-60109E99D237}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07F46AA6-1C71-4BB7-AF7D-60109E99D237}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E2F70D93-C726-48C5-9068-B8C2190B97F1}
+	EndGlobalSection
+EndGlobal
